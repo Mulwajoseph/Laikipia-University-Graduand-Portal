@@ -1,0 +1,11 @@
+graduand:
+user: 1
+pass: 1234
+
+admin:
+user: admin
+pass: 1234
+
+staff:
+user: games
+pass: 1234
